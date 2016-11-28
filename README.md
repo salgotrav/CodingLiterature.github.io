@@ -10,4 +10,4 @@ Licensing
 
 Contact
 -------
-I'd love to hear from you at [@codinliterature](https://twitter.com/codinliterature). Feel free to open issues or [email me](codingliterature.gmail.com) if you run into trouble or have suggestions. Pull Requests always welcome.
+I'd love to hear from you at [@codinliterature](https://twitter.com/codinliterature). Feel free to open issues or [email me](codingliterature@gmail.com) if you run into trouble or have suggestions. Pull Requests always welcome.
