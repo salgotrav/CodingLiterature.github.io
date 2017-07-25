@@ -1,5 +1,7 @@
-### mayankj08.github.io
-View the site [here](https://mayankj08.github.io). 
+
+### Forked from 
+https://github.com/mayankj08/mayankj08.github.io
+
 
 ### Layout by Lanyon
 Thanks to [Mark Otto](https://github.com/mdo) for a great theme
