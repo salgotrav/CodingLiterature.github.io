@@ -1,59 +1,61 @@
-# Build settings
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Mayank Jain
+tagline:             Graduate Student at Binghamton University
+#description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://mayankj08.github.io/
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Mayank Jain
+  github:            mayankj08
+  email:             mjain8@binghamton.edu
+  linkedin:          mayankj08
+  url:               https://twitter.com/mdo
+  email:             mjain8@binghamton.edu
+  gravatar_md5:      3d0369e6754d3b294801794a5f996b22
+
+# Custom vars
+version:             1.0.0
+
+#Gems
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+github:
+  repo: https://github.com/mayankj08/
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
 gems:
-  - jemoji
-  - jekyll-paginate
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
-# Site settings
-title: "Coding Literature"
-description: > # this means to ignore newlines until "email:"
-   A Blog about C++
-
-email: CodingLiterature@gmail.com 
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-
-name: 'Coding Literature'
-author: 'KickAssUser'
-author_image: "/assets/images/author.jpg"
-
-paginate:	5
-
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@codinliterature'
-
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/codinliterature
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/CodingLiterature
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
