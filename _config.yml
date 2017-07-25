@@ -5,20 +5,20 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Mayank Jain
-tagline:             Graduate Student at Binghamton University
+title:               Coding Literature
+tagline:             A Blog about C++ and everyting.
 #description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://mayankj08.github.io/
+url:                 https://codingliterature.github.io/
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mayank Jain
-  github:            mayankj08
-  email:             mjain8@binghamton.edu
-  linkedin:          mayankj08
-  url:               https://twitter.com/mdo
+  name:              Vishal Salgotra
+  github:            salgotrav
+  email:             salgotra.vishal@gmail.com 
+  linkedin:          salgotrav 
+  url:               https://twitter.com/salgotrav
   email:             mjain8@binghamton.edu
   gravatar_md5:      3d0369e6754d3b294801794a5f996b22
 
@@ -31,7 +31,7 @@ paginate: 5
 paginate_path: "page:num"
 
 github:
-  repo: https://github.com/mayankj08/
+  repo: https://github.com/salgotrav/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
