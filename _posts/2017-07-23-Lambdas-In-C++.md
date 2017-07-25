@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lambdas in C++
+title: CMake 
 tags: [ c++ ]
 comments : true
 ---
