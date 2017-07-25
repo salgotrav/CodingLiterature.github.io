@@ -6,7 +6,7 @@ permalink:           pretty
 
 # Setup
 title:               Coding Literature
-tagline:             A Blog about C++ and everyting.
+tagline:             A Blog about C++ and everything.
 #description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://codingliterature.github.io/
 baseurl:             /
@@ -31,7 +31,7 @@ paginate: 5
 paginate_path: "page:num"
 
 github:
-  repo: https://github.com/salgotrav/
+  repo: https://github.com/codingliterature/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
