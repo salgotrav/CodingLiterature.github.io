@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nobody Really Uses an Operating System 
+title: Future of Information Technology
 tags: [ Everything ]
 comments : true
 ---
