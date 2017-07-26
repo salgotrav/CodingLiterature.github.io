@@ -1,3 +1,10 @@
+---
+layout: post
+title: CMake 
+tags: [ Everything ]
+comments : true
+---
+
 God is Omnipresent.
 God is Eternal.
 God is Omnipotent.
