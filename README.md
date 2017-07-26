@@ -1,5 +1,8 @@
 ## Source of CodingLiterature.com
 
+### Optimization:
+http://garthdb.com/writings/i-am-a-jekyll-god/
+
 ### Acknowledgement:
 Following github projects are used to build this site.<br/>
 https://github.com/mdo <br/>
