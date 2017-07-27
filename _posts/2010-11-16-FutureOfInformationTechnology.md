@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future of Information Technology
-tags: [ Everything ]
+tags: [ Thoughts ]
 comments : true
 ---
 
