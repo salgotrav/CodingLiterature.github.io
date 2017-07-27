@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me!
+title: About
 ---
 
 About pages are hard. 
@@ -17,12 +17,12 @@ The main theme throughout this blog is a passion for programming and an urge to 
 Feel free to leave your comments, especially if you spot an error, or to share experiences or thoughts related to a post.
 
 
-# Get In Touch
-You can contact me by sending an e-mail at salgotra.vishal at gmail dot com.
+# About the Author
+You can contact me by sending an [e-mail](salgotra.vishal@gmail.com)
 
 Also, you can learn more about me on below platforms:
 
-* [Linkedin](https://www.linkedin.com/in/salgotrav)
+* [Linkedin](https://www.linkedin.com/in/vishalsalgotra)
 * [Github](https://github.com/salgotrav)
 
 
