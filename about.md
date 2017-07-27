@@ -18,7 +18,7 @@ Feel free to leave your comments, especially if you spot an error, or to share e
 
 
 # About the Author
-You can contact me by sending an [e-mail](salgotra.vishal@gmail.com)
+You can contact me by sending an [e-mail](mailto:salgotra.vishal@gmail.com).
 
 Also, you can learn more about me on below platforms:
 
