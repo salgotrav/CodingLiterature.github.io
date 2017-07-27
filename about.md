@@ -3,14 +3,14 @@ layout: page
 title: About
 ---
 
-About pages are hard. 
+About pages are Hard. 
 
-Coding Literature focuses on
+Coding Literature focuses on:
 
 * Modern C++
 * C++ Standard
 * Low Latency and Performance
-* C++ Books reviews
+* Book Reviews
 
 The main theme throughout this blog is a passion for programming and an urge to learn more about programming and how things work.
 
