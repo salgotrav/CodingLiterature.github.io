@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nobody Really Uses an Operating System 
-tags: [ Everything ]
+tags: [ Thoughts ]
 comments : true
 ---
 
